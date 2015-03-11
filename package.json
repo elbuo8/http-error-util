@@ -1,0 +1,23 @@
+{
+  "name": "http-error-util",
+  "version": "0.0.1",
+  "description": "Simple HTTP Error Generator based on Status Codes or Names",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha test/**/**.test.js"
+  },
+  "keywords": [
+    "http",
+    "error",
+    "errors",
+    "status",
+    "code",
+    "code",
+    "statuscodes"
+  ],
+  "author": "Yamil Asusta @elbuo8",
+  "license": "MIT"
+}
