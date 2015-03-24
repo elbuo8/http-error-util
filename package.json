@@ -9,6 +9,10 @@
   "scripts": {
     "test": "mocha test/**/**.test.js"
   },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:elbuo8/http-error-util.git"
+  },
   "keywords": [
     "http",
     "error",
